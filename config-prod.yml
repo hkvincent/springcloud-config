@@ -1,3 +1,2 @@
 config:
-    info: "info-prod version1"
-	
+    info: "info-dev version1"
